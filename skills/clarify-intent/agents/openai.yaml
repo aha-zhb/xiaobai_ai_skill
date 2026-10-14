@@ -1,0 +1,3 @@
+interface:
+  display_name: "需求表达助手"
+  short_description: "用具体选择和短样例澄清模糊诉求，形成可直接使用的任务说明"
